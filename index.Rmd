@@ -1,5 +1,5 @@
 ---
-title: "Magda is Arrogant"
+title: "Magda is Helpful"
 author: "Emmanuel"
 date: "March 24, 2019"
 output: html_document
